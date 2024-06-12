@@ -232,7 +232,7 @@ fn makeSpeech if len(Origins) {
 			choice([:left, :right])
 			choice([
 				'Hello, Solana!'
-				'Any New meta?'
+				'KFC'
 				'Got any plans for this one'
 				'What a Trade!'
 				'Can you lend me 0.05'
@@ -248,9 +248,9 @@ fn makeSpeech if len(Origins) {
 				'Never mind...fuck solana'
 				'Lil tap in tap out'
 				'a lil 50 bag'
-				'Fuck yeah'
+				'RAPE'
 				'FUCK IT'
-				'What the FUCK?'
+				'BIG NIGGER'
 				'What color is your bugatti'
 				'Did you see that tweet?'
 				'Are you on Photon'
